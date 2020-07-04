@@ -2,6 +2,9 @@ from objects import countries
 from classes import Match, Country
 import random
 # main menu
+# def main():
+#	pass
+
 def main_menu():
 	print("\nSelect an option:\n")
 	print(" ===========================")
